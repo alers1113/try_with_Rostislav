@@ -14,4 +14,4 @@
          integer a
 
          a=b
-      end testprogr
+      end
