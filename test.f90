@@ -13,5 +13,5 @@
 
          integer a
 
-         a=b+10
+         a=b*10
       end
