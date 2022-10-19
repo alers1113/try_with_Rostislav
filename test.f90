@@ -13,5 +13,5 @@
 
          integer a
 
-         a=b
+         a=b+1
       end
